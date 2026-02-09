@@ -1,0 +1,11 @@
+1|Paracetamol|ABC Pharmaceuticals|500|Analgesic|100|15/03/2022|14/03/2024
+2|Panadol|GSK|890|Analgesic|55|01/05/2021|01/05/2023
+3|Disprin|Reckitt|9|Tablet|40|13/06/2017|13/06/2019
+4|Brufen|Abbot|250|Anti-inflammatory|30|17/09/2018|17/09/2021
+5|Somogel|Abbott|100|Anti-inflamatory|85|12/08/2023|12/08/2024
+6|Amoxicillin|Semos|150|Antibiotic|75|19/06/2015|19/06/2016
+7|Ponstan|Pfizer|3|Anti-inflamatory|360|05/03/2023|05/03/2025
+8|Dan-D|CCL|7|Capsule|265|23/05/2021|23/05/2023
+9|Strepsils|Reckitt|10|Tablet|135|19/11/2021|19/11/2022
+10|panadol|gsk|-10|Tablet|30|13/06/2023|13/06/2024
+11|Flagel|Abbott|100|Tablet|50|16/06/2023|16/06/2024
